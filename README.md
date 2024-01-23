@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @7agabond !
-- 👀 I’m interested in programming, tech, art, manga, gaming, and fitness !
-- 🌱 I’m currently looking for employment as a front end dev !
-- 💞️ I’m looking to build my portfolio and contribute to a bunch of projects !
+- 👀 I’m interested in programming, tech, art, manga, gaming, and bodybuilding !
+- 🌱 I’m currently learning NextJS to expand my front end skills !
+- 💞️ I’m attempting to meet more people in the community through hackathons and meetups !
 - 📫 How to reach me - vagabond#1429 on Discord, or to my email at andrew@andrewdevworks.com !
 
 <!---
