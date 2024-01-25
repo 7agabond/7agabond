@@ -1,3 +1,5 @@
+![alt text]([http://url/to/img.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fgif%2Fnight-city%2F&psig=AOvVaw31-mUu30WClMCyEp_yvJqZ&ust=1706312361886000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDJroTb-YMDFQAAAAAdAAAAABAQ))
+
 - 👋 Hi, I’m @7agabond !
 - 👀 I’m interested in programming, tech, art, manga, gaming, and bodybuilding !
 - 🌱 I’m currently learning NextJS to expand my front end skills !
