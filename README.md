@@ -1,4 +1,4 @@
-![](https://github.com/7agabond/7agabond/blob/main/zbpfhnl6piw91.gif | width=400)
+<img src="./zbpfhnl6piw91.gif" width="400" height="790"/>
 
 - 👋 Hi, I’m @7agabond !
 - 👀 I’m interested in programming, tech, art, manga, gaming, and bodybuilding !
