@@ -1,4 +1,4 @@
-<img src="./zbpfhnl6piw91.gif" width="400" height="790"/>
+<img src="./zbpfhnl6piw91.gif" width="600"/>
 
 - 👋 Hi, I’m @7agabond !
 - 👀 I’m interested in programming, tech, art, manga, gaming, and bodybuilding !
