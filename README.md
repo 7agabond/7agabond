@@ -22,7 +22,10 @@
   - 📫 How to reach me - vagabond#1429 on Discord, or to my email at andrew@andrewdevworks.com !
 </p>
 
-![](https://komarev.com/ghpvc/?username=7agabond)
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=7agabond)
+</p>
+
 
 <!---
 7agabond/7agabond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
