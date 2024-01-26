@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=7agabond)
+
 <p align="center">
   <img src="./zbpfhnl6piw91.gif" width="500" align="center" />
 </p>
@@ -21,11 +23,6 @@
 <p align="center">
   - 📫 How to reach me - vagabond#1429 on Discord, or to my email at andrew@andrewdevworks.com !
 </p>
-
-<div align="center">
-  ![](https://komarev.com/ghpvc/?username=7agabond)
-</div>
-
 
 <!---
 7agabond/7agabond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
