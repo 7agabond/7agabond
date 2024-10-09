@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=7agabond)
 
-<p align="left">
+<p align="center">
   <img src="./zbpfhnl6piw91.gif" width="300" />
 </p>
 
