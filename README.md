@@ -1,4 +1,4 @@
-<div align="center">![](https://komarev.com/ghpvc/?username=7agabond)</div>
+![](https://komarev.com/ghpvc/?username=7agabond)
 
 <p align="center">
   <img src="./zbpfhnl6piw91.gif" width="300" />
